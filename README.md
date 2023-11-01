@@ -1,6 +1,8 @@
 
 # Exercise 5.1—FPS
 
+November 1, 2023
+
 Exercise for MSCH-C220
 
 The first Godot 3D exercise, a simple first-person-controlled character.
